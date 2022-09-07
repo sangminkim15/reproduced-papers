@@ -2,7 +2,7 @@
 
 ## About This Repository
 - Codes of papers about some topics in communication systems.
-- I made this repository for my personal study during my M.S.(20~22) and Ph.D(22~) program.
+- I made this repository for my personal study during my M.S.(20-22) and Ph.D(22-) program.
 
 - 통신 관련 토픽을 다룬 논문들의 코드입니다.
 - 개인적으로 공부하는 용도로 만든 repository입니다.
