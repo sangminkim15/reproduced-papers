@@ -4,8 +4,8 @@
 * Codes of papers about some topics in communication systems.
 
 ## Compressed Sensing
-### ISTA / FISTA algorithm
 * M. Borgerding, P. Schniter and S. Rangan, __"AMP-Inspired Deep Networks for Sparse Linear Inverse Problems,"__ in _IEEE Transactions on Signal Processing_, vol. 65, no. 16, pp. 4293-4308, 15 Aug.15, 2017, doi: 10.1109/TSP.2017.2708040. [IEEE link](https://ieeexplore.ieee.org/document/7934066)
+  * ISTA, FISTA algorithms  
 
 ## MIMO Channels
 * H. Sampath, P. Stoica and A. Paulraj, __"Generalized linear precoder and decoder design for MIMO channels using the weighted MMSE criterion,"__ in _IEEE Transactions on Communications_, vol. 49, no. 12, pp. 2198-2206, Dec. 2001, doi: 10.1109/26.974266. [IEEE link](https://ieeexplore.ieee.org/document/974266)
