@@ -23,4 +23,4 @@
 ## ISAC / DFRC (Integrated Sensing and Communications)
 * F. Liu, L. Zhou, C. Masouros, A. Li, W. Luo and A. Petropulu, __"Toward Dual-functional Radar-Communication Systems: Optimal Waveform Design,"__ _IEEE Trans. Signal Process._, vol. 66, no. 16, pp. 4264-4279, 15 Aug., 2018 [IEEE link](https://ieeexplore.ieee.org/document/8386661)
   * L. Zhou et al., __"Optimal Waveform Design for Dual-functional MIMO Radar-Communication Systems,"__  _in Proc. IEEE/CIC International Conference on Communications in China (ICCC)_, 2018, pp. 661-665 (Conference Version) [IEEE link](https://ieeexplore.ieee.org/document/8641142)
-* Qiao Shi, Tianxian Zhang, Xianxiang Yu, Xinyu Liu, Inkyu Lee, __"Waveform designs for joint radar-communication systems with OQAM-OFDM"__, _Signal Process._, vol. 195, 2022, 108462, ISSN 0165-1684 [Elsevier link](https://www.sciencedirect.com/science/article/pii/S0165168422000093)
+* Q. Shi, T. Zhang, X. Yu, X. Liu, I. Lee, __"Waveform designs for joint radar-communication systems with OQAM-OFDM"__, _Signal Process._, vol. 195, 2022, 108462, ISSN 0165-1684 [Elsevier link](https://www.sciencedirect.com/science/article/pii/S0165168422000093)
